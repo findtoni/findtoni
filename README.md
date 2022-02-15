@@ -1,4 +1,4 @@
-[![findToni's GitHub stats](https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=outrun&count_private=true)](#)
+[![findToni's GitHub stats](https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical)](#)
 
 ![](https://raw.githubusercontent.com/findToni/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/findToni/github-stats-transparent/output/generated/languages.svg)

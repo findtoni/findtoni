@@ -1,7 +1,6 @@
-[![findToni's GitHub stats](https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical)](#)
+[![findToni's GitHub stats](https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true)](#)
 
-![](https://raw.githubusercontent.com/findToni/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/findToni/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=findtoni)](#)
 
 <!--
 **findtoni/findtoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

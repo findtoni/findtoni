@@ -26,7 +26,6 @@ Solidity                 12 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/02/2022 23:29:11 UTC
 <!--END_SECTION:waka-->
 
 <p align="left">

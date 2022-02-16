@@ -1,14 +1,14 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true">](#) -->
 
-- 🔭 I’m currently working on building lots of cool stuff
-- 🌱 I’m currently learning Solidity, Rust, Assembly Script
-- 💬 Ask me anything about product design and web related technologies
+- 💜 I love to design and build awesome stuff...
+- 🔭 I’m currently working on building delightful user experiences and dapps
+- 🌱 I’m currently learning Solidity, Rust & Assembly Script
+- 💬 Ask me anything about product design, web technologies and F1
 - ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist/album/year it was released
 
 <br />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2037%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 

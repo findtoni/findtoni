@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true">](#)
+<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true">](#) -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,8 +11,6 @@
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2055%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -28,7 +26,7 @@ Solidity                 12 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="left">
+<!-- <p align="left">
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -47,4 +45,4 @@ Solidity                 12 mins             ░░░░░░░░░░░�
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-</p>
+</p> -->

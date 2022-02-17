@@ -8,6 +8,21 @@
 - ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist/album/year it was released
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C576%20hrs%208%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Vue.js                   16 hrs 47 mins      ███████████████░░░░░░░░░░   60.77% 
+JavaScript               7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   26.66% 
+Solidity                 1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+TypeScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <br />

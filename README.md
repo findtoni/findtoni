@@ -8,22 +8,10 @@
 - ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist/album/year it was released
 
 <br />
+
 <!--START_SECTION:waka-->
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   19 hrs 26 mins      █████████████████░░░░░░░░   69.27% 
-JavaScript               5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-TypeScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
-JSON                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
-Solidity                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
-
-```
-
-
 <!--END_SECTION:waka-->
+
 <br />
   <div align="left">
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />

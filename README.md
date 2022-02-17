@@ -6,21 +6,9 @@
 - 🌱 I’m currently learning Solidity, Rust & Assembly Script
 - 💬 Ask me anything about product design, web technologies and F1
 - ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist/album/year it was released
+<br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   16 hrs 47 mins      ███████████████░░░░░░░░░░   60.77% 
-JavaScript               7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   26.66% 
-Solidity                 1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
-TypeScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

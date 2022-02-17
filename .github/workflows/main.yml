@@ -25,4 +25,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_COMMIT: "False"
           SHOW_UPDATED_DATE: "False"
-          SHOW_CODE_TIME: "False"
+          SHOW_TOTAL_CODE_TIME: "False"

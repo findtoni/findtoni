@@ -8,8 +8,6 @@
 - ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist/album/year it was released
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C576%20hrs%208%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text

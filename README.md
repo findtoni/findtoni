@@ -2,26 +2,13 @@
 <!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true">](#) -->
 
 - 💜 I love to design and build awesome stuff...
-- 🔭 I’m currently working on building delightful user experiences and dapps
-- 🌱 I’m currently learning Solidity, Rust & Assembly Script
-- 💬 Ask me anything about product design, web technologies and F1
-- ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist/album/year it was released
+- 🔭 I’m currently working on building delightful user experiences and web applications
+- 🌱 I’m currently learning Solidity, Rust & Web Assembly
+- 💬 Ask me anything about web technologies, product design and F1
+- ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist||album||year it was released
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   21 hrs 33 mins      ████████████████░░░░░░░░░   67.31% 
-JavaScript               7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35% 
-Solidity                 2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
-SCSS                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

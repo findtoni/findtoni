@@ -13,7 +13,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              █████████████████████████   100.0%
 
 ```
 

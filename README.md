@@ -1,27 +1,14 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there, I'm Toni... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true">](#) -->
 
 - 💜 I love to design and build awesome stuff...
-- 🔭 I’m currently working on building delightful user experiences and web applications
-- 🌱 I’m currently learning Solidity, Rust & Web Assembly
+- 🔭 I’m currently working on building delightful user experiences and decentralized applications
+- 🌱 I’m currently learning blockchain development (Solidity, Substrate, Lisk), Rust & Web Assembly
 - 💬 Ask me anything about web technologies, product design and F1
 - ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist||album||year it was released
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   5 hrs 9 mins        ██████████████░░░░░░░░░░░   58.98% 
-TypeScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
-YAML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-SCSS                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

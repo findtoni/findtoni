@@ -1,5 +1,7 @@
-### hey there, I'm Toni... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true">](#) -->
+### hey there, I'm Toni... 
+<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=findtoni&show_icons=true&theme=radical&count_private=true">]
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+(#) -->
 
 - 💜 I love to design and build awesome stuff...
 - 🔭 I’m currently working on building delightful user experiences and dapps 
@@ -9,18 +11,6 @@
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   2 hrs 24 mins       █████████████░░░░░░░░░░░░   54.26% 
-JSON                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   27.47% 
-TypeScript               47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

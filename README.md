@@ -6,24 +6,11 @@
 - 💜 I love to design and build awesome stuff...
 - 🔭 I’m currently working on building delightful user experiences and dapps 
 - 🌱 I’m currently learning blockchain development, Rust & Web Assembly
-- 💬 Ask me anything about web technologies, product design and F1
+- 💬 Ask me anything about web technologies and product design
 - ⚡ Fun fact: Tell me the name of a song, and I'll most likely tell you the name of the artist||album||year it was released
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   6 hrs 34 mins       ██████████████████░░░░░░░   72.14% 
-TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
-SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

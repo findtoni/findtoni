@@ -3,26 +3,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 (#) -->
 
-- I combine design and engineering to build, deliver and scale highly valuable products
+- I combine design and engineering to build, ship and scale highly valuable products
 - I’m currently working on building dapps with delightful user experiences  
 - I’m currently learning blockchain and smart contracts development, Rust & WASM
 - Ask me anything about web technologies and product design
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   7 hrs 10 mins       ██████████████████░░░░░░░   72.9% 
-TypeScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

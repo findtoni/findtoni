@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 (#) -->
 
-- I combine design and engineering to build, ship and scale highly valuable products
+- I combine curiosity, passion, design and engineering to build, ship and scale high value products
 - I’m currently working on building dapps with delightful user experiences  
 - I’m currently learning blockchain and smart contracts development, Rust & WASM
 - Ask me anything about web technologies and product design

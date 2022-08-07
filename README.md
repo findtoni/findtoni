@@ -5,24 +5,11 @@
 
 - I combine curiosity, passion and creativity to design, build and ship projects
 - I'm currently building dApps with delightful user interfaces and experiences  
-- Interested in blockchain development, smart contracts and web assembly
+- Interested in vue, blockchain development, smart contracts and web assembly
 - Ask me anything about web technologies and product design
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   5 hrs 9 mins        █████████████░░░░░░░░░░░░   53.29% 
-TypeScript               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
-JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.97% 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

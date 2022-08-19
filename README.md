@@ -34,7 +34,7 @@ HTML                     1 hr 2 mins         ██░░░░░░░░░�
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/>
-    <img height="25" src="https://bit.ly/3JmwcJc" style="padding-right:10px;"/>
+    <img height="25" src="https://bit.ly/3A0Cee8" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
     <img height="23" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>

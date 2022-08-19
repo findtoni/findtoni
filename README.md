@@ -10,19 +10,6 @@
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   5 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   42.27% 
-Python                   2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
-TypeScript               1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.58%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />
@@ -41,7 +28,6 @@ HTML                     1 hr 2 mins         ██░░░░░░░░░�
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;"/>
-    <img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" style="padding-right:10px;"/>
     <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>

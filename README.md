@@ -28,17 +28,15 @@ HTML                     1 hr 2 mins         ██░░░░░░░░░�
 <br />
   <div align="left">
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;"/>
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/>
-    <img height="25" src="https://bit.ly/3A0Cee8" style="padding-right:10px;"/>
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
     <img height="23" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>
+    <img height="25" src="https://bit.ly/3A0Cee8" style="padding-right:10px;"/>
     <img height="25" src="https://bit.ly/3cWHpnF" style="padding-right:10px;"/>
+    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>
@@ -47,4 +45,5 @@ HTML                     1 hr 2 mins         ██░░░░░░░░░�
     <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>
+    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" style="padding-right:10px;"/>
   </p>

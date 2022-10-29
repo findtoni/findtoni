@@ -6,23 +6,10 @@
 - I combine curiosity, passion and creativity to design, build and ship projects
 - I'm currently building dApps with delightful user interfaces and experiences  
 - Interested in blockchain development, smart contracts and web assembly
-- Ask me anything about web technologies, vue and product design
+- Ask me anything about web technologies and product design
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   2 hrs 25 mins       █████████████████░░░░░░░░   67.91% 
-TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />
@@ -32,6 +19,7 @@ JSON                     4 mins              ░░░░░░░░░░░�
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
+      <img height="25" src="https://wgxwocyublngaeisjxte.supabase.co/storage/v1/object/public/assets/icons/nextjs-original-1.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
     <img height="23" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>
     <img height="26" src="https://bit.ly/3cWHpnF" style="padding-right:10px;"/>

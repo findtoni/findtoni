@@ -10,6 +10,15 @@
 <br />
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 48 mins       ████████████████████████░   99.14% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
+
+```
+
 
 <!--END_SECTION:waka-->
 

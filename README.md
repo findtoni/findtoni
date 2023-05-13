@@ -3,21 +3,11 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 (#) -->
 
-- I combine curiosity, passion and creativity to design, build and ship projects
-- I'm currently building dApps with delightful user interfaces and experiences  
-- Interested in blockchain development, smart contracts and web assembly
-- Ask me anything about web technologies and product design
+- I combine curiosity, passion and creativity to design, build & ship projects
+- Interested in user interfaces, web technologies & blockchain development
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />
@@ -29,9 +19,10 @@ No Activity Tracked This Week
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
       <img height="25" src="https://wgxwocyublngaeisjxte.supabase.co/storage/v1/object/public/assets/icons/nextjs-original-1.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
-    <img height="23" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>
-    <img height="26" src="https://bit.ly/3cWHpnF" style="padding-right:10px;"/>
+    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding-right:10px;" />
     <img height="22" src="https://bit.ly/3A0Cee8" style="padding-right:10px;"/>
+    <img height="26" src="https://bit.ly/3cWHpnF" style="padding-right:10px;"/>
+    <img height="23" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px;"/>

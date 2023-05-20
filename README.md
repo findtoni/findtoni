@@ -3,21 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 (#) -->
 
-- I combine curiosity, passion and creativity to design, build & ship projects
-- Interested in user interfaces, web technologies & blockchain development
-<br />
-
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   4 hrs 46 mins       ████████████████████████░   97.20 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <br />

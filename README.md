@@ -8,7 +8,7 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

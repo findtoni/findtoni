@@ -5,19 +5,8 @@
 (#) -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               23 hrs 32 mins      ██████████████████████░░░   88.88 % 
-JavaScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Vue.js                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-```
-
-
 <!--END_SECTION:waka-->
+
   <div align="left">
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
@@ -25,11 +14,11 @@ CSS                      11 mins             ░░░░░░░░░░░�
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding-right:10px;" />
+    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" style="padding-right:10px;" />
     <img height="22" src="https://bit.ly/3A0Cee8" style="padding-right:10px;"/>
     <img height="23" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>
+    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;"/>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px;"/>

@@ -5,22 +5,10 @@
 (#) -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               11 hrs 46 mins      ██████████████░░░░░░░░░░░   57.46 % 
-YAML                     4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-```
-
-
 <!--END_SECTION:waka-->
 
   <div align="left">
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<!--     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> -->
     <img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
     <img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"/>
     <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;"/>

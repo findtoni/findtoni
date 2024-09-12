@@ -5,22 +5,9 @@
 (#) -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               22 hrs 9 mins       █████████████████████░░░░   82.10 % 
-Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-```
-
-
 <!--END_SECTION:waka-->
 
   <div align="left">
-<!--     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> -->
     <img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
     <img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"/>
     <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;"/>
@@ -38,5 +25,6 @@ JavaScript               24 mins             ░░░░░░░░░░░�
     <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
     <img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;"/>
     <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;"/>
-   <img height="20" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>
+    <img height="20" src="https://bit.ly/3oPTX2M" style="padding-right:10px;"/>
+    <img height="21" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   </div>

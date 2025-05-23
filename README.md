@@ -5,6 +5,13 @@
 (#) -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 13 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 

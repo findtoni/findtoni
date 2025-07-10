@@ -9,7 +9,7 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

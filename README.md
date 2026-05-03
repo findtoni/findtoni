@@ -5,6 +5,20 @@
 (#) -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Vue                      9 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.01 % 
+TypeScript               7 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
+JSON                     2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+TSConfig                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+
+🔥 Editors: 
+VS Code                  22 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 

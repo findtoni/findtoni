@@ -7,24 +7,24 @@
 
 ```text
 💬 Programming Languages: 
-Vue                      13 hrs 6 mins       ███████████████░░░░░░░░░░   59.86 % 
-TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Vue                      13 hrs 6 mins       ███████████████░░░░░░░░░░   59.51 % 
+TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 52 mins      ██████████████████░░░░░░░   72.51 % 
-Codex Vscode             3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Copilot CLI              2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+VS Code                  16 hrs              ██████████████████░░░░░░░   72.67 % 
+Codex Vscode             3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Copilot CLI              2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 57 mins (59.18%)
+⏱ AI Coding Time: 12 hrs 57 mins (58.83%)
 
-✍️ 3,079 lines written by AI, 2,074 lines written by hand (59.75% AI-written)
+✍️ 3,079 lines written by AI, 2,084 lines written by hand (59.64% AI-written)
 
 🔤 4,127,461 Input Tokens, 617,866 Output Tokens
 
@@ -38,10 +38,10 @@ Github-Copilot-Cli       26 lines            ░░░░░░░░░░░�
 Sonnet                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.75% of written lines came from AI
+⚖️ Balanced with AI — 59.64% of written lines came from AI
 📚 Verbose Prompter — average 4,044 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 51.03% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 51.09% of changed lines were hand-edited
 ```
 
 

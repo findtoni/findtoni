@@ -7,40 +7,40 @@
 
 ```text
 💬 Programming Languages: 
-Vue                      20 hrs 8 mins       ████████████████░░░░░░░░░   63.29 % 
-TypeScript               6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Vue                      15 hrs 19 mins      ███████████████░░░░░░░░░░   58.87 % 
+TypeScript               5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 25 mins      ████████████████████░░░░░   79.85 % 
-Codex Vscode             6 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Copilot CLI              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  20 hrs 16 mins      ███████████████████░░░░░░   77.92 % 
+Codex Vscode             5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 36 mins (45.88%)
+⏱ AI Coding Time: 12 hrs 9 mins (46.73%)
 
-✍️ 702 lines written by AI, 5,477 lines written by hand (11.36% AI-written)
+✍️ 244 lines written by AI, 5,341 lines written by hand (4.37% AI-written)
 
-🔤 4,643,776 Input Tokens, 828,055 Output Tokens
+🔤 4,129,993 Input Tokens, 739,669 Output Tokens
 
-💵 $60.66 Estimated AI Cost This Week
+💵 $52.38 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 233 AI Prompts
+🧠 22 AI Sessions, 176 AI Prompts
 
-GPT                      996 lines           █████████████████████████   100.00 % 
+GPT                      316 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.36% of written lines came from AI
-📚 Verbose Prompter — average 1,655 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.37% of written lines came from AI
+📄 Detailed Prompter — average 1,478 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 93.95% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.0% of changed lines were hand-edited
 ```
 
 

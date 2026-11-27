@@ -7,23 +7,23 @@
 
 ```text
 💬 Programming Languages: 
-Vue                      8 hrs 11 mins       █████████████░░░░░░░░░░░░   50.71 % 
-Other                    5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.66 % 
-TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Vue                      8 hrs 14 mins       █████████████░░░░░░░░░░░░   50.88 % 
+Other                    5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.55 % 
+TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 38 mins       █████████████░░░░░░░░░░░░   53.50 % 
-Codex Vscode             6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.08 % 
-Copilot CLI              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+VS Code                  8 hrs 41 mins       █████████████░░░░░░░░░░░░   53.66 % 
+Codex Vscode             6 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.93 % 
+Copilot CLI              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 Copilot                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 14 mins (75.79%)
+⏱ AI Coding Time: 12 hrs 14 mins (75.53%)
 
 ✍️ 38 lines written by AI, 550 lines written by hand (6.46% AI-written)
 
@@ -39,7 +39,7 @@ GPT                      60 lines            ███████████�
 🧑‍💻 Mostly Hands-On — 6.46% of written lines came from AI
 📄 Detailed Prompter — average 1,198 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 94.46% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.81% of changed lines were hand-edited
 ```
 
 
